@@ -1,0 +1,15 @@
+
+<image src="/images/backGroundPictures/background.png" class="backGround">
+
+
+
+<image src="/images/button/start.png" 
+class="button_start">
+<button bindtap="goPage" size="mini" class="buttonPos"></button>
+</image>
+
+</image>
+
+
+
+

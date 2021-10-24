@@ -1,0 +1,21 @@
+/* pages/ending.wxss */
+.word{
+  font-size: 40rpx;
+  font-family:"宋体";
+  color: rgb(4, 37, 32);
+  
+  position:absolute;
+  top:42vh;left:50vw;
+  height:38vh;
+  width:50vw;
+}
+.backGround{
+  height: 100vh;
+  width: 100vw;
+}
+.ending_pig{
+  position:absolute;
+  top:20vh;left:10vw;
+  height:50vh;
+  width:27vw;
+}
